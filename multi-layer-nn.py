@@ -58,6 +58,14 @@ theta = (w1, b1, w2, b2)
 # Define the loss function
 def squared_loss(y, y_hat):
     return np.dot((y - y_hat),(y - y_hat))
+    # With this, RMSE is regularly reduced by 8 orders of magnitude.
+
+    # ABSOLUTE VALUE
+    # if (y - y_hat) > 0:
+    #     return (y - y_hat)
+    # else:
+    #     return (y_hat - y)
+    # With this, in the best case, RMSE is reduced by 1 order of magnitude.
 
 # Wrapper around the Neural Network
 def neural_network(x, theta):
