@@ -60,7 +60,6 @@ for i in range(10000):
 
     if(i % 1000 == 0):
         print(total_cost)
-        print("")
 
     total_cost = 0
 
