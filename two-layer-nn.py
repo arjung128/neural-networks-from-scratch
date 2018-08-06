@@ -92,7 +92,6 @@ def update_theta(theta, delta, alpha):
 # Compute Gradient
 grad_objective = grad(objective)
 
-
 # Train the Neural Network
 epochs = 1000
 
