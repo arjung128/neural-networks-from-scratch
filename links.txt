@@ -1,0 +1,9 @@
+
+In addition to answers for Coursera course,
+https://github.com/Alescontrela/Numpy-CNN
+https://wiseodd.github.io/techblog/2016/07/16/convnet-conv-layer/
+http://chris-chris.ai/2017/11/26/conv-in-numpy/
+https://github.com/zishansami102/CNN-from-Scratch
+https://becominghuman.ai/back-propagation-in-convolutional-neural-networks-intuition-and-code-714ef1c38199
+https://github.com/zishansami102/CNN-from-Scratch
+https://www.youtube.com/watch?v=BvrWiL2fd0M
